@@ -5,7 +5,7 @@
 You probably want to render pixel fonts without any [anti-aliasing](https://en.wikipedia.org/wiki/Spatial_anti-aliasing).
 
 ### Desktop fonts
-Click on the *Type Tool* and choose *None* on the anti-aliasing drop-down menu.
+In Photoshop, click on the *Type Tool* and choose *None* on the anti-aliasing drop-down menu.
 
 ### Web fonts
 Do only use the base `font-size` like `1rem`/`100%` or add multiple amounts like `200%` and the following CSS code:
